@@ -53,7 +53,7 @@ GOOGLE_API_KEY=your_google_api_key
 
 ### Run the Application
 ```bash
-streamlit run app.py
+streamlit run chat.py
 ```
 
 ## Usage
